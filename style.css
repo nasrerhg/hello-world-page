@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.h1_container{
+    background-color: #303030;
+    height: 100vh;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+.h1_container h1{
+    padding-top: 2em;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    font-size: 3rem;
+    letter-spacing: .1em;
+    text-shadow: 0 0 5px white;
+}
